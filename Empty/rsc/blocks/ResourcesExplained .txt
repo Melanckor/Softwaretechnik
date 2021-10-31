@@ -1,0 +1,6 @@
+
+// @author Burak Ünal
+We use resources for 2 things: Firstly, to store the different 4-stone combinations as a matrix, which is then passed on to an int[][][] Array with corresponding information. 
+They are our 4 stone "types".Each Number is translated to a different color.
+Secondly,The Result of the Enumeration is written in the Enumeration text file ,which can then be read to visualize it.
+How it is embedded in the code will be explained on their respective positions.
